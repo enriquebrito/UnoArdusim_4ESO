@@ -61,7 +61,7 @@ Vamos a describir en qué consisten las prácticas.
 
   * 5 - SERVOMOTOR
   
- En esta simulación el servomotor se mueve controlador por un bucle de lado a lado.
+  En esta simulación el servomotor se mueve controlador por un bucle de lado a lado.
  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/fiZxDH31JXX
   
   * 6 - SERVOMOTOR POTENCIÓMETRO
