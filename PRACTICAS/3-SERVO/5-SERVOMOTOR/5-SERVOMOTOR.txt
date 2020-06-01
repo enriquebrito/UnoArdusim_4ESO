@@ -1,0 +1,1 @@
+﻿Servo Motor 1 conectado a pin 3 con valor N

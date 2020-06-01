@@ -1,0 +1,3 @@
+﻿Altavoz Piezo 1 conectado a pin 2 
+Control Deslizante Analógico 1 conectado a pin A0 
+USB Serial 1 conectado a pins 1, 0 con valor 9600

@@ -1,0 +1,1 @@
+﻿color DEL 1 conectado a pin 13 con valores D, R

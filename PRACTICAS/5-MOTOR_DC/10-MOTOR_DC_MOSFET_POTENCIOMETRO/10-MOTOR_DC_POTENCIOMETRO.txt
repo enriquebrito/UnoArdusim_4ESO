@@ -1,0 +1,2 @@
+﻿Control Deslizante Analógico 1 conectado a pin A0 
+Motor de DC 1 conectado a pins 3, -1, -1 
