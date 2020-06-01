@@ -27,3 +27,4 @@ Podemos ejecutar paso a paso, animar la ejecución (se irá resaltando la línea
 
 Si queremos resetear la simulación, debemos pulsar el icono de la flehca blanca hacia abajo o ir a menú Ejecutar->Reiniciar.
 
+
