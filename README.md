@@ -32,6 +32,10 @@ Si queremos resetear la simulación, debemos pulsar el icono de la flehca blanca
 Vamos a describir en qué consisten las prácticas.
 
 - 1 - LEDs
+  * 1 - BLINK
+  Este es la práctica primera que se suele hacert cargando el ejemplo BLINK desde el IDE de Arduino. Se simula ese led y se carga el código ejemplo.
+  * 2 - LEDs SEMÁFORO
+  En este caso se simulan trtes leds, que podrían ser un semáforo, en los que se van encendiendo alternativamente de rojo a verde y después de verde a rojo, en bucle.
 - 2 - PULSADOR
 - 3 - SERVO
 - 4 - LDR y BUZZER
