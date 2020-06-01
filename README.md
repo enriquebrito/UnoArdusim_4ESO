@@ -8,17 +8,17 @@ https://www.sites.google.com/site/unoardusim/services
 y descargar la última versión.
 En el momento de crear este repositorio la versión más reciente es la 2.7.1, con la que se han creado estas prácticas.
 
-<b>¿Cómo usar las prácticas?</b>
+**¿Cómo usar las prácticas?**
 
 Una vez descargado el simulador y descomprimido en un directorio del ordenador (es una aplicación "portable") lo ejecutamos.
 Primero en CONFIG->PREFERENCES marcamos que queremos simular Arduino V3 marcando el radio button correspondiente. También podemos seleccionar el idioma del interfaz. Esto es lo mínimo a configurar. Se recomienda revisar la ayuda disponible desde el menú del propio simulador para aprender a usar todas sus posibilidades.
 
-<u>Configurando el hardware a simular</u>
+_Configurando el hardware a simular_
 
 La parte derecha delsimulador Ardusim muestra los elementos hardware que queremos simular. Se debe cargar la configuración mediante el fichero .txt cvreado para cada práctica, navegando al directorio correspondiente de este repositorio (o al correspondiente de la descarga que se haya realizado en el propio PC).
 Una vez cargada la configuración del hardware, debemos cargar el código.INO desde el menúa Archivo, navegando al correspondiente código.
 
-<u>Ejecutar la simulación</u>
+_Ejecutar la simulación_
 
 Para ejecutar la simulación se debe pulsar el icono con la flecha verde hacia abajo o ir al menú Ejecutar->Ejecutar (equivalente a pulsar la tecla F9)
 Se para la simulación con el icono STOP, menú Ejecutar-ZDetener o pulsando F10.
