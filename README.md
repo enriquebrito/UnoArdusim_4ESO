@@ -15,13 +15,13 @@ Primero en CONFIG->PREFERENCES marcamos que queremos simular Arduino V3 marcando
 
 _Configurando el hardware a simular_
 
-La parte derecha delsimulador Ardusim muestra los elementos hardware que queremos simular. Se debe cargar la configuración mediante el fichero .txt cvreado para cada práctica, navegando al directorio correspondiente de este repositorio (o al correspondiente de la descarga que se haya realizado en el propio PC).
-Una vez cargada la configuración del hardware, debemos cargar el código.INO desde el menúa Archivo, navegando al correspondiente código.
+La parte derecha delsimulador Ardusim muestra los elementos hardware que queremos simular. Se debe cargar la configuración mediante el fichero .txt creado para cada práctica, navegando al directorio correspondiente de este repositorio (o al correspondiente de la descarga que se haya realizado en el propio PC). Usamos el menú Configurar-> "I/O" Dispositivos y en la ventana que sale, damos al botón Cargar para navegar al directorio donte tenemos la práctica correspondiente. Seleccionamos el fichero que aparece y luego pulsamos OK. Veremos UnoArdusim con el harware que queremos simular en la parte derecha correctamente configurado.
+Una vez cargada la configuración del hardware, debemos cargar el código.INO desde el menú Archivo, navegando al correspondiente código.
 
 _Ejecutar la simulación_
 
 Para ejecutar la simulación se debe pulsar el icono con la flecha verde hacia abajo o ir al menú Ejecutar->Ejecutar (equivalente a pulsar la tecla F9)
-Se para la simulación con el icono STOP, menú Ejecutar-ZDetener o pulsando F10.
+Se para la simulación con el icono STOP, menú Ejecutar->Detener o pulsando F10.
 
 Podemos ejecutar paso a paso, animar la ejecución (se irá resaltando la línea de código que se está ejecutando, o hacerlo a cámara lenta. Para más información, consultar la ayuda del propio simulador.
 
