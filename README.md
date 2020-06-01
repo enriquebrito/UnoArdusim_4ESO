@@ -13,12 +13,12 @@ En el momento de crear este repositorio la versión más reciente es la 2.7.1, c
 Una vez descargado el simulador y descomprimido en un directorio del ordenador (es una aplicación "portable") lo ejecutamos.
 Primero en CONFIG->PREFERENCES marcamos que queremos simular Arduino V3 marcando el radio button correspondiente. También podemos seleccionar el idioma del interfaz. Esto es lo mínimo a configurar. Se recomienda revisar la ayuda disponible desde el menú del propio simulador para aprender a usar todas sus posibilidades.
 
-Configurando el hardware a simular
+<u>Configurando el hardware a simular</u>
 
 La parte derecha delsimulador Ardusim muestra los elementos hardware que queremos simular. Se debe cargar la configuración mediante el fichero .txt cvreado para cada práctica, navegando al directorio correspondiente de este repositorio (o al correspondiente de la descarga que se haya realizado en el propio PC).
 Una vez cargada la configuración del hardware, debemos cargar el código.INO desde el menúa Archivo, navegando al correspondiente código.
 
-Ejecutar la simulación
+<u>Ejecutar la simulación</u>
 
 Para ejecutar la simulación se debe pulsar el icono con la flecha verde hacia abajo o ir al menú Ejecutar->Ejecutar (equivalente a pulsar la tecla F9)
 Se para la simulación con el icono STOP, menú Ejecutar-ZDetener o pulsando F10.
