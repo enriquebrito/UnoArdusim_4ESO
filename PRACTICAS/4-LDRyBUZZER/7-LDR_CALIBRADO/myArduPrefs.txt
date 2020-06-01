@@ -1,0 +1,14 @@
+﻿es
+formato de guión automático 1
+cierre- inserto auto} 0
+punto y coma de inserción automática 0
+permitir que la sintaxis experto 1
+hacer cumplir los límites matriz 1
+operadores lógicos de palabras clave 0
+mostrar programa descarga 1
+número de fuente tipo de letra 2
+número de fuente tamaño de fuente 2
+multiplicador de tamaño pestaña 2
+'Uno' versión placa de circuito 3
+TWI longitud de búfer 32
+Nombre IODevs archivo 8-LDR_ZUMBADOR.txt
