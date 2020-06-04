@@ -36,13 +36,13 @@ Vamos a describir en qué consisten las prácticas.
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/1-LEDs/LEDs.pdf
 
-  * 1 - BLINK
-  Este es la práctica primera que se suele hacert cargando el ejemplo BLINK desde el IDE de Arduino. Se simula ese led y se carga el código ejemplo.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/2gO5d2Biaxt
+       * 1 - BLINK
+       Este es la práctica primera que se suele hacert cargando el ejemplo BLINK desde el IDE de Arduino. Se simula ese led y se carga el código ejemplo.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/2gO5d2Biaxt
 
-  * 2 - LEDs SEMÁFORO
-  En este caso se simulan trtes leds, que podrían ser un semáforo, en los que se van encendiendo alternativamente de rojo a verde y después de verde a rojo, en bucle.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/hQvPtCJtsZs
+       * 2 - LEDs SEMÁFORO
+       En este caso se simulan trtes leds, que podrían ser un semáforo, en los que se van encendiendo alternativamente de rojo a verde y después de verde a rojo, en bucle.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/hQvPtCJtsZs
 
   
 - 2 - PULSADOR
@@ -50,26 +50,26 @@ https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/1-LEDs/LED
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/2-PULSADOR/PulsadorArduino.pdf
 
-  * 3 - LED PULSADOR
-  Tenemos un LED que está encendido mientras no actuemos sobre el pulsador, que lo apaga.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/bXTOSWr75jv
+       * 3 - LED PULSADOR
+       Tenemos un LED que está encendido mientras no actuemos sobre el pulsador, que lo apaga.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/bXTOSWr75jv
 
-  * 4 - LED PULSADOR PWM
-  En este caso, si no actuamos sopbre el pulsador, el LED permanece encendido. Al actuar sobre el pulsador, modulamos con PWM la intensidad de luz del LED. En este caso, UnoArdusim no permite modular esta intensidad, pero en la consula que hay a la izquierda debajo del código fuente podemos observar el cambio de valor que genera el PWM de 0 a 255. Visualmente, el LED parpadea.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/eJzoLHgI9Oz
+       * 4 - LED PULSADOR PWM
+       En este caso, si no actuamos sopbre el pulsador, el LED permanece encendido. Al actuar sobre el pulsador, modulamos con PWM la intensidad de luz del LED. En este caso, UnoArdusim no permite modular esta intensidad, pero en la consula que hay a la izquierda debajo del código fuente podemos observar el cambio de valor que genera el PWM de 0 a 255. Visualmente, el LED parpadea.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/eJzoLHgI9Oz
   
 - 3 - SERVO
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/3-SERVO/ArduinoServo.pdf
 
-  * 5 - SERVOMOTOR
-  En esta simulación el servomotor se mueve controlador por un bucle de lado a lado.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/fiZxDH31JXX
+       * 5 - SERVOMOTOR
+       En esta simulación el servomotor se mueve controlador por un bucle de lado a lado.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/fiZxDH31JXX
 
-  * 6 - SERVOMOTOR POTENCIÓMETRO
-  Ahora actuamos controlando la posición del motro con el deslizador qeu simula el uso de un potenciómetro. Cabe destacar que en un montaje real necesitaríamos una resistencia de pullup o pulldown para realizar correctamente este montaje.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/5yJekbxJyLV
+       * 6 - SERVOMOTOR POTENCIÓMETRO
+       Ahora actuamos controlando la posición del motro con el deslizador qeu simula el uso de un potenciómetro. Cabe destacar que en un montaje real necesitaríamos una resistencia de pullup o pulldown para realizar correctamente este montaje.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/5yJekbxJyLV
   
   
 - 4 - LDR y BUZZER
@@ -77,26 +77,26 @@ https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/3-SERVO/Ar
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/4-LDRyBUZZER/LDRyBuzzer.pdf
 
-  * 7 - LDR CALIBRADO
-  Simulación de lo que sería calibrar un montaje con un LDR para saber el nivel de luz que detecta. Dado que UnoArdusim no tiene disponible la simulación de un LDR se utiliza como alternativa un deslizador horizontal. Se presenta un módulo de conexión serie que no muesta los mensajes de la consola serie. También podemos abrir una consola seria para verlo mejor en Ventanas->"Serial" monitor.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/l2MyUeYhikM
+       * 7 - LDR CALIBRADO
+       Simulación de lo que sería calibrar un montaje con un LDR para saber el nivel de luz que detecta. Dado que UnoArdusim no tiene disponible la simulación de un LDR se utiliza como alternativa un deslizador horizontal. Se presenta un módulo de conexión serie que no muesta los mensajes de la consola serie. También podemos abrir una consola seria para verlo mejor en Ventanas->"Serial" monitor.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/l2MyUeYhikM
 
-  * 8 LDR ZUMBADOR
-  Ahora que hemos "calibrado" nuestro montaje, si detectamos luz por encima del umbral definido en el código hacemos sonar un zumbaor.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/bAL9Fdr37Ik
+       * 8 LDR ZUMBADOR
+       Ahora que hemos "calibrado" nuestro montaje, si detectamos luz por encima del umbral definido en el código hacemos sonar un zumbaor.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/bAL9Fdr37Ik
   
 - 5 - MOTOR DC
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/5-MOTOR_DC/MotorDC_IRF510.pdf
 
-  * 9 - MOTOR DC MOSFET
-  En realidad se quería simular un montaje con un MOSFET cuya puerta se controla desde un pind de Ardunio y que sirve para hacer funcionar un motro DC. Dado que UnoArdusim no dispone de MOSFET se simula simplemente con el motor. En esta práctica se varía mediando bucle FOR su velocidad de mínimo a máximo y viceversa.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/5IRpxlyDyxA
+       * 9 - MOTOR DC MOSFET
+       En realidad se quería simular un montaje con un MOSFET cuya puerta se controla desde un pind de Ardunio y que sirve para hacer funcionar un motro DC. Dado que UnoArdusim no dispone de MOSFET se simula simplemente con el motor. En esta práctica se varía mediando bucle FOR su velocidad de mínimo a máximo y viceversa.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/5IRpxlyDyxA
 
-  * 10 - MOTOR DC MOSFET POTENCIÓMETRO
-  Ahora regulamos con un potenciómetro (simulado por un deslizador) la velocidad de giro del motor.
-  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/cRiJl97Vo3M
+       * 10 - MOTOR DC MOSFET POTENCIÓMETRO
+       Ahora regulamos con un potenciómetro (simulado por un deslizador) la velocidad de giro del motor.
+       Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/cRiJl97Vo3M
   
 
 
