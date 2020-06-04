@@ -36,10 +36,12 @@ Vamos a describir en qué consisten las prácticas.
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/1-LEDs/LEDs.pdf
 
+
   * 1 - BLINK
   
   Este es la práctica primera que se suele hacert cargando el ejemplo BLINK desde el IDE de Arduino. Se simula ese led y se carga el código ejemplo.
   Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/2gO5d2Biaxt
+  
   
   * 2 - LEDs SEMÁFORO
   
@@ -51,6 +53,7 @@ https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/1-LEDs/LED
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/2-PULSADOR/PulsadorArduino.pdf
+
 
   * 3 - LED PULSADOR
   
@@ -68,10 +71,12 @@ https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/2-PULSADOR
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/3-SERVO/ArduinoServo.pdf
 
+
   * 5 - SERVOMOTOR
   
   En esta simulación el servomotor se mueve controlador por un bucle de lado a lado.
  Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/fiZxDH31JXX
+  
   
   * 6 - SERVOMOTOR POTENCIÓMETRO
   
@@ -83,6 +88,7 @@ https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/3-SERVO/Ar
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/4-LDRyBUZZER/LDRyBuzzer.pdf
+
 
   * 7 - LDR CALIBRADO
   
@@ -99,6 +105,7 @@ https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/4-LDRyBUZZ
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/5-MOTOR_DC/MotorDC_IRF510.pdf
+
 
   * 9 - MOTOR DC MOSFET
   
