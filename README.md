@@ -32,7 +32,7 @@ Si queremos resetear la simulación, debemos pulsar el icono de la flehca blanca
 Vamos a describir en qué consisten las prácticas.
 
 
-###### 1 - LEDs
+###### **1 - LEDs**
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/1-LEDs/LEDs.pdf
