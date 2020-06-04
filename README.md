@@ -33,6 +33,9 @@ Vamos a describir en qué consisten las prácticas.
 
 - 1 - LEDs
 
+La documentación que se puede usar en una clase presencial es esta:
+https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/1-LEDs/LEDs.pdf
+
   * 1 - BLINK
   
   Este es la práctica primera que se suele hacert cargando el ejemplo BLINK desde el IDE de Arduino. Se simula ese led y se carga el código ejemplo.
@@ -45,6 +48,9 @@ Vamos a describir en qué consisten las prácticas.
 
   
 - 2 - PULSADOR
+
+La documentación que se puede usar en una clase presencial es esta:
+https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/2-PULSADOR/PulsadorArduino.pdf
 
   * 3 - LED PULSADOR
   
@@ -59,6 +65,9 @@ Vamos a describir en qué consisten las prácticas.
   
 - 3 - SERVO
 
+La documentación que se puede usar en una clase presencial es esta:
+https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/3-SERVO/ArduinoServo.pdf
+
   * 5 - SERVOMOTOR
   
   En esta simulación el servomotor se mueve controlador por un bucle de lado a lado.
@@ -72,6 +81,9 @@ Vamos a describir en qué consisten las prácticas.
   
 - 4 - LDR y BUZZER
 
+La documentación que se puede usar en una clase presencial es esta:
+https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/4-LDRyBUZZER/LDRyBuzzer.pdf
+
   * 7 - LDR CALIBRADO
   
   Simulación de lo que sería calibrar un montaje con un LDR para saber el nivel de luz que detecta. Dado que UnoArdusim no tiene disponible la simulación de un LDR se utiliza como alternativa un deslizador horizontal. Se presenta un módulo de conexión serie que no muesta los mensajes de la consola serie. También podemos abrir una consola seria para verlo mejor en Ventanas->"Serial" monitor.
@@ -84,6 +96,9 @@ Vamos a describir en qué consisten las prácticas.
   Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/bAL9Fdr37Ik
   
 - 5 - MOTOR DC
+
+La documentación que se puede usar en una clase presencial es esta:
+https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/5-MOTOR_DC/MotorDC_IRF510.pdf
 
   * 9 - MOTOR DC MOSFET
   
