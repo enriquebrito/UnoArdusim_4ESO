@@ -32,7 +32,7 @@ Si queremos resetear la simulación, debemos pulsar el icono de la flehca blanca
 Vamos a describir en qué consisten las prácticas.
 
 
-######1 - LEDs
+###### 1 - LEDs
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/1-LEDs/LEDs.pdf
@@ -46,7 +46,7 @@ En este caso se simulan trtes leds, que podrían ser un semáforo, en los que se
 Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/hQvPtCJtsZs
 
 
-######2 - PULSADOR
+###### 2 - PULSADOR
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/2-PULSADOR/PulsadorArduino.pdf
@@ -60,7 +60,7 @@ En este caso, si no actuamos sopbre el pulsador, el LED permanece encendido. Al 
 Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/eJzoLHgI9Oz
 
 
-######3 - SERVO
+###### 3 - SERVO
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/3-SERVO/ArduinoServo.pdf
@@ -74,7 +74,7 @@ Ahora actuamos controlando la posición del motro con el deslizador qeu simula e
 Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/5yJekbxJyLV
   
   
-######4 - LDR y BUZZER
+###### 4 - LDR y BUZZER
 
 La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/4-LDRyBUZZER/LDRyBuzzer.pdf
