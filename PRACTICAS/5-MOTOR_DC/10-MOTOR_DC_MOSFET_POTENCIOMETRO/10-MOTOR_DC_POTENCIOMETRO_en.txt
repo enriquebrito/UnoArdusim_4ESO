@@ -1,0 +1,2 @@
+﻿Analog Slider 1 wired to pin A0 
+DC Motor 1 wired to pins 3, -1, -1 
