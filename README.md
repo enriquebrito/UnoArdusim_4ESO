@@ -9,7 +9,7 @@ y descargar la última versión.
 En el momento de crear este repositorio la versión más reciente es la 2.7.1, con la que se han creado estas prácticas.
 Para comodidad, se adjunta a este repositorio una copia de esta versión del simulador
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/UnoArduSimV2.7.1.zip
-(Cuando se escriben estas líneas, se ha liberado la versión 2.8.0 de UnoArdusim peor se ha comprobado que, debido al uso de la localización al español, los ficheros de configuración aquí facilitados no son compatibles con esa versión. Esto no sucedería de haber usado el interfaz en inglés. Se ha reportado al Profesor Simmons esta circunstancia)
+(Cuando se escriben estas líneas, se ha liberado la versión 2.8.0 de UnoArdusim pero se ha comprobado que, debido al uso de la localización al español, los ficheros de configuración aquí facilitados no son compatibles con esa versión. Esto no sucedería de haber usado el interfaz en inglés. Se ha reportado al Profesor Simmons esta circunstancia)
 
 **¿Cómo usar las prácticas?**
 
