@@ -47,11 +47,11 @@ La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/1-LEDs/LEDs.pdf
 
 * 1 - BLINK
-Este es la práctica primera que se suele hacert cargando el ejemplo BLINK desde el IDE de Arduino. Se simula ese led y se carga el código ejemplo.
+Este es la práctica primera que se suele hacer cargando el ejemplo BLINK desde el IDE de Arduino. Se simula ese led y se carga el código ejemplo.
 Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/2gO5d2Biaxt
 
 * 2 - LEDs SEMÁFORO
-En este caso se simulan trtes leds, que podrían ser un semáforo, en los que se van encendiendo alternativamente de rojo a verde y después de verde a rojo, en bucle.
+En este caso se simulan tres leds, que podrían ser un semáforo, en los que se van encendiendo alternativamente de rojo a verde y después de verde a rojo, en bucle.
 Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/hQvPtCJtsZs
 
 
@@ -79,7 +79,7 @@ En esta simulación el servomotor se mueve controlador por un bucle de lado a la
 Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/fiZxDH31JXX
 
 * 6 - SERVOMOTOR POTENCIÓMETRO
-Ahora actuamos controlando la posición del motro con el deslizador qeu simula el uso de un potenciómetro. Cabe destacar que en un montaje real necesitaríamos una resistencia de pullup o pulldown para realizar correctamente este montaje.
+Ahora actuamos controlando la posición del motor con el deslizador qeu simula el uso de un potenciómetro. Cabe destacar que en un montaje real necesitaríamos una resistencia de pullup o pulldown para realizar correctamente este montaje.
 Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/5yJekbxJyLV
   
   
@@ -89,7 +89,7 @@ La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/4-LDRyBUZZER/LDRyBuzzer.pdf
 
 * 7 - LDR CALIBRADO
-Simulación de lo que sería calibrar un montaje con un LDR para saber el nivel de luz que detecta. Dado que UnoArdusim no tiene disponible la simulación de un LDR se utiliza como alternativa un deslizador horizontal. Se presenta un módulo de conexión serie que no muesta los mensajes de la consola serie. También podemos abrir una consola seria para verlo mejor en Ventanas->"Serial" monitor.
+Simulación de lo que sería calibrar un montaje con un LDR para saber el nivel de luz que detecta. Dado que UnoArdusim no tiene disponible la simulación de un LDR se utiliza como alternativa un deslizador horizontal. Se presenta un módulo de conexión serie que no muesta los mensajes de la consola serie. También podemos abrir una consola serie para verlo mejor en Ventanas->"Serial" monitor.
 Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/l2MyUeYhikM
 
 * 8 LDR ZUMBADOR
@@ -103,7 +103,7 @@ La documentación que se puede usar en una clase presencial es esta:
 https://github.com/enriquebrito/UnoArdusim_4ESO/blob/master/PRACTICAS/5-MOTOR_DC/MotorDC_IRF510.pdf
 
 * 9 - MOTOR DC MOSFET
-En realidad se quería simular un montaje con un MOSFET cuya puerta se controla desde un pind de Ardunio y que sirve para hacer funcionar un motro DC. Dado que UnoArdusim no dispone de MOSFET se simula simplemente con el motor. En esta práctica se varía mediando bucle FOR su velocidad de mínimo a máximo y viceversa.
+En realidad se quería simular un montaje con un MOSFET cuya puerta se controla desde un pin de Ardunio y que sirve para hacer funcionar un motor DC. Dado que UnoArdusim no dispone de MOSFET, se simula simplemente con el motor. En esta práctica se varía mediante bucle FOR su velocidad de mínimo a máximo y viceversa.
 Esta práctica se puede ver simulada con Tinkercad en https://www.tinkercad.com/things/5IRpxlyDyxA
 
 * 10 - MOTOR DC MOSFET POTENCIÓMETRO
