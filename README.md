@@ -1,5 +1,10 @@
 # UnoArdusim_4ESO
-Conjunto de prácticas realizadas con UnoArdusim, adaptadas al currículo de 4 ESO.
+Conjunto de prácticas adaptadas al currículo de 4º ESO realizadas con Arduino.
+Se dispone del material de soporte para realización de docencia presencial o para poder realizar tele enseñanza utilizando simulación.
+
+En este repositorio se encuentran los ficheros necesarios apra poder realizar dicha simulación con UnoArdusim. En esta descripción también se enlaza a la simulación con Tinkercad de todas las sesiones de trabajo.
+
+Como es evidente, las simulaciones en UnoArdusim están adpatadas a las posibilidades de simulación de elementos hardware que ofrece. En Tinkercad está simulado un montaje que se puede realizar en laboratorio, como de hecho así ha sido en sesiones prácticas impartidas.
 
 Para poder utilizarlas se debe descargar primero el simulador UnoArdusim, desarrollado por el profesor Stan Simmons de la universidad de Queens, Ontario (Canadá).
 
