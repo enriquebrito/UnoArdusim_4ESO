@@ -10,6 +10,7 @@ Para poder utilizarlas se debe descargar primero el simulador UnoArdusim, desarr
 
 Para ello, se debe ir a su web:
 https://www.sites.google.com/site/unoardusim/services
+https://sites.google.com/site/unoardusim/home?authuser=0
 y descargar la última versión.
 En el momento de crear este repositorio la versión más reciente es la 2.7.1, con la que se han creado estas prácticas.
 Para comodidad, se adjunta a este repositorio una copia de esta versión del simulador
